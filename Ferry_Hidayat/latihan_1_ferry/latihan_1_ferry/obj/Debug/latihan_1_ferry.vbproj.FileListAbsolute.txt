@@ -1,0 +1,10 @@
+D:\Ferry_Hidayat\latihan_1_ferry\latihan_1_ferry\bin\Debug\latihan_1_ferry.exe.config
+D:\Ferry_Hidayat\latihan_1_ferry\latihan_1_ferry\obj\Debug\latihan_1_ferry.KALKULATOR.resources
+D:\Ferry_Hidayat\latihan_1_ferry\latihan_1_ferry\obj\Debug\latihan_1_ferry.Resources.resources
+D:\Ferry_Hidayat\latihan_1_ferry\latihan_1_ferry\obj\Debug\latihan_1_ferry.vbproj.GenerateResource.Cache
+D:\Ferry_Hidayat\latihan_1_ferry\latihan_1_ferry\bin\Debug\latihan_1_ferry.exe
+D:\Ferry_Hidayat\latihan_1_ferry\latihan_1_ferry\bin\Debug\latihan_1_ferry.pdb
+D:\Ferry_Hidayat\latihan_1_ferry\latihan_1_ferry\bin\Debug\latihan_1_ferry.xml
+D:\Ferry_Hidayat\latihan_1_ferry\latihan_1_ferry\obj\Debug\latihan_1_ferry.exe
+D:\Ferry_Hidayat\latihan_1_ferry\latihan_1_ferry\obj\Debug\latihan_1_ferry.xml
+D:\Ferry_Hidayat\latihan_1_ferry\latihan_1_ferry\obj\Debug\latihan_1_ferry.pdb
