@@ -1,0 +1,10 @@
+D:\latihan_1_ferry\pertemuan_2\ppn\ppn\bin\Debug\ppn.exe.config
+D:\latihan_1_ferry\pertemuan_2\ppn\ppn\bin\Debug\ppn.exe
+D:\latihan_1_ferry\pertemuan_2\ppn\ppn\bin\Debug\ppn.pdb
+D:\latihan_1_ferry\pertemuan_2\ppn\ppn\bin\Debug\ppn.xml
+D:\latihan_1_ferry\pertemuan_2\ppn\ppn\obj\Debug\ppn.Form1.resources
+D:\latihan_1_ferry\pertemuan_2\ppn\ppn\obj\Debug\ppn.Resources.resources
+D:\latihan_1_ferry\pertemuan_2\ppn\ppn\obj\Debug\ppn.vbproj.GenerateResource.Cache
+D:\latihan_1_ferry\pertemuan_2\ppn\ppn\obj\Debug\ppn.exe
+D:\latihan_1_ferry\pertemuan_2\ppn\ppn\obj\Debug\ppn.xml
+D:\latihan_1_ferry\pertemuan_2\ppn\ppn\obj\Debug\ppn.pdb
