@@ -1,0 +1,12 @@
+C:\Users\VERY\OneDrive\Desktop\pertemuan_4\Procedure dan Funcion\Procedure dan Funcion\bin\Debug\Procedure dan Funcion.exe.config
+C:\Users\VERY\OneDrive\Desktop\pertemuan_4\Procedure dan Funcion\Procedure dan Funcion\bin\Debug\Procedure dan Funcion.exe
+C:\Users\VERY\OneDrive\Desktop\pertemuan_4\Procedure dan Funcion\Procedure dan Funcion\bin\Debug\Procedure dan Funcion.pdb
+C:\Users\VERY\OneDrive\Desktop\pertemuan_4\Procedure dan Funcion\Procedure dan Funcion\bin\Debug\Procedure dan Funcion.xml
+C:\Users\VERY\OneDrive\Desktop\pertemuan_4\Procedure dan Funcion\Procedure dan Funcion\obj\Debug\Procedure dan Funcion.vbproj.AssemblyReference.cache
+C:\Users\VERY\OneDrive\Desktop\pertemuan_4\Procedure dan Funcion\Procedure dan Funcion\obj\Debug\Procedure_dan_Funcion.Form1.resources
+C:\Users\VERY\OneDrive\Desktop\pertemuan_4\Procedure dan Funcion\Procedure dan Funcion\obj\Debug\Procedure_dan_Funcion.Resources.resources
+C:\Users\VERY\OneDrive\Desktop\pertemuan_4\Procedure dan Funcion\Procedure dan Funcion\obj\Debug\Procedure dan Funcion.vbproj.GenerateResource.cache
+C:\Users\VERY\OneDrive\Desktop\pertemuan_4\Procedure dan Funcion\Procedure dan Funcion\obj\Debug\Procedure dan Funcion.vbproj.CoreCompileInputs.cache
+C:\Users\VERY\OneDrive\Desktop\pertemuan_4\Procedure dan Funcion\Procedure dan Funcion\obj\Debug\Procedure dan Funcion.exe
+C:\Users\VERY\OneDrive\Desktop\pertemuan_4\Procedure dan Funcion\Procedure dan Funcion\obj\Debug\Procedure dan Funcion.xml
+C:\Users\VERY\OneDrive\Desktop\pertemuan_4\Procedure dan Funcion\Procedure dan Funcion\obj\Debug\Procedure dan Funcion.pdb
